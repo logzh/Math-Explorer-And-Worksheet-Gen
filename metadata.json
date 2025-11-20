@@ -1,0 +1,5 @@
+{
+  "name": "Math Explorer & Worksheet Gen",
+  "description": "A kid-friendly application to visualize multiplication and division with an AI tutor, and generate printable math worksheets.",
+  "requestFramePermissions": []
+}
